@@ -1,2 +1,2 @@
-# ksjsb
-快手
+# cloud-JavaScript
+AutoJavaScript
